@@ -1,0 +1,1 @@
+This is a new text file created and edited with the command line using "touch" and Nano.
