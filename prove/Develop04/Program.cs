@@ -2,8 +2,10 @@ using System;
 
 class Program
 {
+    //added a countdown and a spinner. I use both in different places in the program. 
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello Develop04 World!");
+        Menu myMenu = new Menu();
+        myMenu.DisplayMenu();
     }
 }
